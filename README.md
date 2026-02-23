@@ -13,4 +13,5 @@ Implicit Typecasting: This is done automatically by Python when it needs to conv
 python
 result = 5 + 2.5  # The integer 5 is implicitly converted to a float, and the result is 7.5
 Python makes typecasting simple and intuitive, but it’s always good to double-check to ensure you’re not losing any important data (like truncation when casting from a float to an integer). Let me know if you'd like examples or further clarification!
+for
 
